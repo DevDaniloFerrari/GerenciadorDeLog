@@ -1,0 +1,6 @@
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\bin\Release\GerenciadorDeLog.Domain.dll
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\bin\Release\GerenciadorDeLog.Domain.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\obj\Release\GerenciadorDeLog.Domain.csprojAssemblyReference.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\obj\Release\GerenciadorDeLog.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\obj\Release\GerenciadorDeLog.Domain.dll
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.Domain\obj\Release\GerenciadorDeLog.Domain.pdb

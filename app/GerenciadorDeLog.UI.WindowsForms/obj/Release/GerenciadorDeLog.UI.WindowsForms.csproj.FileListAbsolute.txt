@@ -1,0 +1,13 @@
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Release\GerenciadorDeLog.UI.WindowsForms.exe.config
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Release\GerenciadorDeLog.UI.WindowsForms.exe
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Release\GerenciadorDeLog.UI.WindowsForms.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.csprojAssemblyReference.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.Form1.resources
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.Properties.Resources.resources
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.csproj.GenerateResource.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.exe
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Release\GerenciadorDeLog.Domain.dll
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Release\GerenciadorDeLog.Domain.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Release\GerenciadorDeLog.UI.WindowsForms.csproj.CopyComplete

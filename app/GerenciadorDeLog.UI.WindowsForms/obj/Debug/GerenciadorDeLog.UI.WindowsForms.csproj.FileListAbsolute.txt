@@ -1,0 +1,13 @@
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Debug\GerenciadorDeLog.UI.WindowsForms.exe.config
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Debug\GerenciadorDeLog.UI.WindowsForms.exe
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Debug\GerenciadorDeLog.UI.WindowsForms.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Debug\GerenciadorDeLog.Domain.dll
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\bin\Debug\GerenciadorDeLog.Domain.pdb
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.csprojAssemblyReference.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.Form1.resources
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.Properties.Resources.resources
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.csproj.GenerateResource.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.csproj.CopyComplete
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.exe
+D:\Projetos\C#\GerenciadorDeLog\app\GerenciadorDeLog.UI.WindowsForms\obj\Debug\GerenciadorDeLog.UI.WindowsForms.pdb
