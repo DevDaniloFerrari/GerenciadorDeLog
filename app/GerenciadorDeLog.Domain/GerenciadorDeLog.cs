@@ -8,7 +8,7 @@ namespace GerenciadorDeLog.Domain
     public class GerenciadorDeLog
     {
 
-        public static string CaminhoDoLog { get; set; }
+        private static string CaminhoDoLog { get; set; }
         private static Log log;
 
         /// <summary>
